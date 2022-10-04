@@ -27,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajiya-salat-0a2a78245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajiya-salat-0a2a78245/" height="80" width="80" /></a>
- <a href="https://www.twitter.com/https://twitter.com/SajiyaSalat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt=" https://twitter.com/SajiyaSalat" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajiya-salat-0a2a78245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajiya-salat-0a2a78245/" height="40" width="40" /></a>
+ 
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19932222/sajiya-salat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19932222/sajiya-salat" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/salatsajiya7_8_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/salatsajiya7_8_6" height="30" width="40" /></a>
 </p>
