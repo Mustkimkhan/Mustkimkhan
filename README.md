@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @sajiyacodelover
-- 👀 I’m interested in Devlopment
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me...
-- Twitter - https://twitter.com/SajiyaSalat
-- LinkedIn - https://www.linkedin.com/in/sajiya-salat-0a2a78245/
-
-<!---
-sajiyacodelover/sajiyacodelover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, My Name is Salat SAjiyah I am a TEch Enthusisast and I am Learning Different Technologies form past one year. I am First year Undergrad Student at Manipal Univer
+[![Sajiyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajiyah)](https://github.com/Sajiyah/github-readme-stats)
