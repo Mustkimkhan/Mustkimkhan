@@ -38,7 +38,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajiyah-salat&show_icons=true&locale=en&layout=compact" alt="sajiyah-salat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajiyah-salat&show_icons=true&locale=en" alt="sajiyah-salat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajiyah-salat&" alt="sajiyah-salat" /></p>
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Sajiyah-Salat&show_icons=true&theme=tokyonight" 
+/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
