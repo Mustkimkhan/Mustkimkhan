@@ -23,14 +23,15 @@ fields_of_interests:
   
 currently_learning: ["Docker, Kubernetes, Linux, DSA"]
 ```
- **```Digital Craftsman (Developer/Creator)```** 
+  
  
- 
- 
+### CONNECT WITH ME: 
 [![My socials](https://skillicons.dev/icons?i=linkedin,twitter,github)](https://skillicons.dev)
+
  
+ ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 [![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap,tailwind,firebase,kotlin,androidstudio&perline=6)](https://skillicons.dev)
-<h3 align="left">Languages and Tools:</h3>
+ 
  
 
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages"/>
