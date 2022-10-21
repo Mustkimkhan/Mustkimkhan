@@ -40,6 +40,6 @@ currently_learning: ["Docker, Kubernetes, Linux, DSA"]
 />
 <br></br>
  
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=sajiyah-salat&theme=redical">
+ 
 
  
