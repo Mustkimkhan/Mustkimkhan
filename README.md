@@ -1,29 +1,29 @@
  <h1 align="center">Hi 👋, I'm Sajiyah</h1>
 <h3 align="center">A Passionate and Aspiring DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajiyah-salat&label=Profile%20views&color=0e75b6&style=flat" alt="sajiyah-salat" /> </p>
+ ```yaml
+name: Sajiyah-Salat
+located_in: Gujarat,India
+current_job: Open Source Developer
+education:
+  [
+  Bachelors of Computer Application: First Year Student
+  ]
+company: GitHub
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajiyah-salat" alt="sajiyah-salat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [DSA](https://github.com/Sajiyah-Salat/Leetcode)
-
-- 🌱 I’m currently learning **Data Structure and Algorithms, DevOps, Web Devlopment, Android Devlopment**
-
-- 👯 I’m looking to collaborate on [Website](https://github.com/Sajiyah-Salat/BlogWeb)
-
-- 🤝 I’m looking for help with [Website](https://github.com/Sajiyah-Salat/BlogWeb)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sajiyah-Salat](https://github.com/Sajiyah-Salat)
-
-- 📝 I regularly write articles on [blogweb-c94c0.web.app/](blogweb-c94c0.web.app/)
-
-- 💬 Ask me about **Java, Data Structure and Alorithms, Docker, K8s**
-
-- 📫 How to reach me **https://www.linkedin.com/in/sajiya-salat-0a2a78245/**
-
-- ⚡ Fun fact **I think I'm an artist**
+fields_of_interests:
+  [
+    "Web Development",
+    "Web Designing",
+    "Software Development",
+    "Cloud",
+    "DevOps",
+    "Java Devloper",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, Linux, DSA"]
+```
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
