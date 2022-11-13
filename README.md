@@ -36,10 +36,7 @@ currently_learning: ["Docker, Kubernetes, Linux, DSA"]
 <br></br>
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajiyah-salat&layout=compact&theme=radical&custom_title=Languages"/>
 <br></br>
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Sajiyah-Salat&show_icons=true&theme=tokyonight" 
-/>
-<br></br>
+ 
  
  
 
