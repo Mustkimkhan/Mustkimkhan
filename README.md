@@ -17,7 +17,7 @@ fields_of_interests:
   [
     "Web Development",
     "Web Designing",
-    "Software Development",R̥
+    "Software Development",
     "Cloud",
     "DevOps",
     "Java Devloper",
