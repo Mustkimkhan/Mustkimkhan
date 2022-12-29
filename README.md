@@ -47,6 +47,7 @@ currently_learning: ["Docker, Kubernetes, Linux, DSA"]
 <a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="Dummies Guide to Tech"><strong>Dummies Guide to Tech</strong></a>
 <br/> Let me throw some heavy words... I learned Kubernetes, Docker, Minikube, nodes, ports, clusters, CI/CD pipelines, Jenkins, terraform, and some other CNCF projects; I attended Kubecon North America this year, and now there is no going back. </p><br/> <br/>
 
+
  [twitter]: https://twitter.com/SajiyaSalat
  [linkedin]: https://www.linkedin.com/in/sajiya-salat-0a2a78245
  [github]: https://github.com/Sajiyah-Salat
