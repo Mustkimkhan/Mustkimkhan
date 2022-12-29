@@ -39,9 +39,13 @@ currently_learning: ["Docker, Kubernetes, Linux, DSA"]
  ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How collaboration helped me find my passion"><img src="https://sajiyah-salat.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1666598991610%2Fb_xmuTPLG.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
-<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How collaboration helped me find my passion"><strong>How collaboration helped me find my passion</strong></a>
-<br/> Collaboration is all about growing and learning together. Everyone has their expertise, and by collaborating, we can share our knowledge and experiences so that other people can learn and grow. In this Blog, I have taken a storytelling approach to co... </p> <br/> <br/>
+<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How to Have Fun With Hacktoberfest"><img src="https://sajiyah-salat.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1666598991610%2Fb_xmuTPLG.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How to Have Fun With Hacktoberfest" width="250px" align="left" /></a>
+<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How to Have Fun With Hacktoberfest"><strong>How to Have Fun With Hacktoberfest</strong></a>
+<br/> Let's get to the point where I began now. Let me just say that a month ago, I was also afraid of GitHub, open source, and contributions. They were quite a heavy and horrifying name for me. I'll be honest. I started to have swags.... </p> <br><br/>
+
+<a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="How collaboration helped me find my passion"><img src="https://sajiyah-salat.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FXJXWbfSo2f0%2Fupload%2Fv1667551220556%2FFXOF-GzrS.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
+<a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="Dummies Guide to Tech"><strong>Dummies Guide to Tech</strong></a>
+<br/> Let me throw some heavy words... I learned Kubernetes, Docker, Minikube, nodes, ports, clusters, CI/CD pipelines, Jenkins, terraform, and some other CNCF projects; I attended Kubecon North America this year, and now there is no going back. </p><br/> <br/>
 
  [twitter]: https://twitter.com/SajiyaSalat
  [linkedin]: https://www.linkedin.com/in/sajiya-salat-0a2a78245
