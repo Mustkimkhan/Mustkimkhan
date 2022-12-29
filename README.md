@@ -36,11 +36,13 @@ currently_learning: ["Docker, Kubernetes, Linux, DSA"]
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 [![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap,tailwind,firebase,kotlin,androidstudio&perline=6)](https://skillicons.dev)
  
- 
-<br></br>
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajiyah-salat&layout=compact&theme=radical&custom_title=Languages"/>
-<br></br>
- 
+ ### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How collaboration helped me find my passion"><img src="https://sajiyah-salat.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1666598991610%2Fb_xmuTPLG.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
+<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How collaboration helped me find my passion"><strong>How collaboration helped me find my passion</strong></a>
+<br/> Collaboration is all about growing and learning together. Everyone has their expertise, and by collaborating, we can share our knowledge and experiences so that other people can learn and grow. In this Blog, I have taken a storytelling approach to co... </p> <br/> <br/>
+
  [twitter]: https://twitter.com/SajiyaSalat
  [linkedin]: https://www.linkedin.com/in/sajiya-salat-0a2a78245
  [github]: https://github.com/Sajiyah-Salat
