@@ -15,15 +15,14 @@ company: GitHub
 
 fields_of_interests:
   [
-    "Web Development",
-    "Web Designing",
-    "Software Development",
+   "Open Source Devloper"
+   "Kubernetes Expert"
     "Cloud",
     "DevOps",
     "Java Devloper",
   ]
   
-currently_learning: ["Docker, Kubernetes, Linux, DSA"]
+currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
