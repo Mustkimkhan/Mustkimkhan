@@ -33,7 +33,7 @@ currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
 [![Hashnode Badge](https://img.shields.io/badge/-@sajiyahsalat-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://sajiyah-salat.hashnode.dev/)](https://sajiyah-salat.hashnode.dev/)
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,html,css,js,bootstrap,tailwind,firebase,kotlin,androidstudio&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,go&perline=6)](https://skillicons.dev)
  
  ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
