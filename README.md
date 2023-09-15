@@ -38,13 +38,13 @@ currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
  ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How to Have Fun With Hacktoberfest"><img src="https://sajiyah-salat.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1666598991610%2Fb_xmuTPLG.jpg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How to Have Fun With Hacktoberfest" width="250px" align="left" /></a>
+<a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How to Have Fun With Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666598991610/b_xmuTPLG.jpg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How to Have Fun With Hacktoberfest" width="250px" align="left" /></a>
 <a href="https://sajiyah-salat.hashnode.dev/how-to-have-fun-with-hacktoberfest" title="How to Have Fun With Hacktoberfest"><strong>How to Have Fun With Hacktoberfest</strong></a>
 <br/> Let's get to the point where I began now. Let me just say that a month ago, I was also afraid of GitHub, open source, and contributions. They were quite a heavy and horrifying name for me. I'll be honest. I started to have swags.... </p> <br><br/>
 
-<a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="How collaboration helped me find my passion"><img src="https://sajiyah-salat.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FXJXWbfSo2f0%2Fupload%2Fv1667551220556%2FFXOF-GzrS.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
-<a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="Dummies Guide to Tech"><strong>Dummies Guide to Tech</strong></a>
-<br/> Let me throw some heavy words... I learned Kubernetes, Docker, Minikube, nodes, ports, clusters, CI/CD pipelines, Jenkins, terraform, and some other CNCF projects; I attended Kubecon North America this year, and now there is no going back. </p><br/> <br/>
+<a href="https://sajiyah-salat.hashnode.dev/how-i-became-a-member-in-kubernetes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677860949509/4332e9a9-c00d-4d62-b640-10ace366f22e.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
+<a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="Dummies Guide to Tech"><strong>How I became a member of kubernetes</strong></a>
+<br/> I have made a membership request. You need two sponsors to be a member. Shane Utt helped me because he worked with me on one issue. On January 19, I got to know about Kubebuilder, and now I am here as a member of.... </p><br/> <br/>
 
 
  [twitter]: https://twitter.com/SajiyaSalat
