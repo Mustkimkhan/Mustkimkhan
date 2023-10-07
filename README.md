@@ -4,22 +4,21 @@
 <br></br>
 
  ```yaml
-name: Sajiyah-Salat
-located_in: Gujarat,India
-current_job: Open Source Developer
+name: Mustkim Khan
+located_in: Dehli
+current_job: Cloud and DevOps Engineer
 education:
   [
-  Bachelors of Computer Application: First Year Student
+  Post Graduation In cloud Computting 
   ]
-company: GitHub
+company: Intelipaat
 
 fields_of_interests:
   [
    "Open Source Devloper"
-   "Kubernetes Expert"
+   "Kubernetes"
     "Cloud",
     "DevOps",
-    "Java Devloper",
   ]
   
 currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
@@ -47,8 +46,7 @@ currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
 <br/> I have made a membership request. You need two sponsors to be a member. Shane Utt helped me because he worked with me on one issue. On January 19, I got to know about Kubebuilder, and now I am here as a member of.... </p><br/> <br/>
 
 
- [twitter]: https://twitter.com/SajiyaSalat
- [linkedin]: https://www.linkedin.com/in/sajiya-salat-0a2a78245
- [github]: https://github.com/Sajiyah-Salat
+ [linkedin]: [https://www.linkedin.com/in/mustkim-khan-78197a140/)https://www.linkedin.com/in/mustkim-khan-78197a140/]
+ [github]:  https://github.com/Mustkimkhan
 
  
