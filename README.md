@@ -29,14 +29,8 @@ fields_of_interests:
 [<img src ="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
 <br></br> 
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,java,go&perline=6)](https://skillicons.dev)
- 
- ### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<br/> Let's get to the point where I began now. Let me just say that a month ago, I was also afraid of GitHub, open source, and contributions. They were quite a heavy and horrifying name for me. I'll be honest. I started to have swags.... </p> <br><br/>
- src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677860949509/4332e9a9-c00d-4d62-b640-10ace366f22e.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
-<a href="https://sajiyah-salat.hashnode.dev/dummies-guide-to-tech" title="Dummies Guide to Tech"><strong>How I became a member of kubernetes</strong></a>
-<br/> I have made a membership request. You need two sponsors to be a member. Shane Utt helped me because he worked with me on one issue. On January 19, I got to know about Kubebuilder, and now I am here as a member of.... </p><br/> <br/>
+[![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,kubernetes,perline=6)](https://skillicons.dev)
+
 
 
  [linkedin]: https://www.linkedin.com/in/mustkim-khan-78197a140/]
