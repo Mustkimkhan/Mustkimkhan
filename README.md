@@ -21,7 +21,6 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_preparing_for: ["GSOC, Outreachy, MLH Fellowship, Kubecon"]
 ```
 <br></br>
 >### CONNECT WITH ME: 
